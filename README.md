@@ -5,9 +5,9 @@
 ### Building Cloud Skills Across Nigeria
 We are a thriving community of developers, cloud enthusiasts, and tech professionals passionate about **Microsoft Azure** and cloud technologies. Our mission is to build, nurture, and showcase Nigerian talent in the global cloud computing space.
 
-[![Join Our Meetup](https://img.shields.io/badge/Meetup-Join%20Us-red?style=for-the-badge&logo=meetup)](https://rebrand.ly/azurenigcommunity-meetup)
-[![Follow on Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://rebrand.ly/azurenig-twitter)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://rebrand.ly/azurenigcommunity-linkedin)
+<a href="https://rebrand.ly/azurenigcommunity-meetup" target="_blank"><img src="https://img.shields.io/badge/Meetup-Join%20Us-red?style=for-the-badge&logo=meetup" alt="Join Our Meetup"></a>
+<a href="https://rebrand.ly/azurenig-twitter" target="_blank"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Follow on Twitter"></a>
+<a href="https://rebrand.ly/azurenigcommunity-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
 
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Community](https://img.shields.io/badge/Community-Driven-success?style=for-the-badge)
@@ -112,7 +112,7 @@ graph LR
 
 ### 📅 Upcoming Events
 
-Check our [Meetup page](https://rebrand.ly/azurenigcommunity-meetup) for the latest workshops and training sessions
+Check our <a href="https://rebrand.ly/azurenigcommunity-meetup" target="_blank">Meetup page</a> for the latest workshops and training sessions
 
 </div>
 
@@ -134,10 +134,10 @@ Check our [Meetup page](https://rebrand.ly/azurenigcommunity-meetup) for the lat
 
 | Platform | Link |
 |----------|------|
-| 📅 **Meetup** | [Join our events](https://rebrand.ly/azurenigcommunity-meetup) |
-| 🐦 **Twitter/X** | [@AzureNigeria](https://rebrand.ly/azurenig-twitter) |
-| 💼 **LinkedIn** | [Azure Nigeria Community](https://rebrand.ly/azurenigcommunity-linkedin) |
-| 📧 **Email** | hello@azurenigeria.community |
+| 📅 **Meetup** | <a href="https://rebrand.ly/azurenigcommunity-meetup" target="_blank">Join our events</a> |
+| 🐦 **Twitter/X** | <a href="https://rebrand.ly/azurenig-twitter" target="_blank">@AzureNigeria</a> |
+| 💼 **LinkedIn** | <a href="https://rebrand.ly/azurenigcommunity-linkedin" target="_blank">Azure Nigeria Community</a> |
+| 📧 **Email** | <a href="mailto:hello@azurenigeria.community">hello@azurenigeria.community </a> |
 
 </div>
 
