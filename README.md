@@ -3,6 +3,7 @@
 # ☁️ Azure Nigeria Community
 
 ### Building Cloud Skills Across Nigeria
+We are a thriving community of developers, cloud enthusiasts, and tech professionals passionate about **Microsoft Azure** and cloud technologies. Our mission is to build, nurture, and showcase Nigerian talent in the global cloud computing space.
 
 [![Join Our Meetup](https://img.shields.io/badge/Meetup-Join%20Us-red?style=for-the-badge&logo=meetup)](https://rebrand.ly/azurenigcommunity-meetup)
 [![Follow on Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://rebrand.ly/azurenig-twitter)
@@ -21,11 +22,11 @@
 We teach Azure through hands-on practice. Our training sessions focus on:
 
 ```
-🎓 **Instructor-Led Training** - Regular hands-on workshops covering Azure fundamentals to advanced services  
-🚀 **Real-World Projects** - Practical experience building solutions with Azure technologies  
-🤝 **Networking & Collaboration** - Connect with fellow developers and industry professionals  
-📚 **Knowledge Sharing** - Learn from experienced Azure practitioners and Microsoft MVPs  
-🎯 **Career Development** - Prepare for Azure certifications and cloud career opportunities
+🎓 Instructor-Led Training - Regular hands-on workshops covering Azure fundamentals to advanced services  
+🚀 Real-World Projects - Practical experience building solutions with Azure technologies  
+🤝 Networking & Collaboration** - Connect with fellow developers and industry professionals  
+📚 Knowledge Sharing - Learn from experienced Azure practitioners and Microsoft MVPs  
+🎯 Career Development - Prepare for Azure certifications and cloud career opportunities
 ```
 
 <div align="center">
@@ -169,10 +170,8 @@ We maintain a welcoming, inclusive environment. Respect everyone, ask questions 
 
 <div align="center">
 
-### 💙 Learning Azure. Building Careers. Growing Together.
+#### 💙 Learning Azure. Building Careers. Growing Together.
 
 **Made with ❤️ in Nigeria 🇳🇬**
-
-⭐ Star this repo to stay updated | 👀 Watch for new resources
 
 </div>
