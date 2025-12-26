@@ -100,7 +100,7 @@ Curious about Cloud computing? No prerequisites—show up willing to learn.
 
 ```mermaid
 graph LR
-    A[1. Join Groups(Whatsapp-Meetup)] --> B[2. Attend Sessions]
+    A["1. Join Groups - WhatsApp/Meetup"] --> B[2. Attend Sessions]
     B --> C[3. Start Building]
     style A fill:#0078D4,stroke:#fff,stroke-width:2px,color:#fff
     style B fill:#50C878,stroke:#fff,stroke-width:2px,color:#fff
